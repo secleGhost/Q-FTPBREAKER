@@ -1,0 +1,7 @@
+C:\Users\ATE\source\repos\Q-FTPBREAKER\Q-FTPBREAKER\bin\Debug\Q-FTPBREAKER.exe.config
+C:\Users\ATE\source\repos\Q-FTPBREAKER\Q-FTPBREAKER\bin\Debug\Q-FTPBREAKER.exe
+C:\Users\ATE\source\repos\Q-FTPBREAKER\Q-FTPBREAKER\bin\Debug\Q-FTPBREAKER.pdb
+C:\Users\ATE\source\repos\Q-FTPBREAKER\Q-FTPBREAKER\obj\Debug\Q-FTPBREAKER.csprojAssemblyReference.cache
+C:\Users\ATE\source\repos\Q-FTPBREAKER\Q-FTPBREAKER\obj\Debug\Q-FTPBREAKER.csproj.CoreCompileInputs.cache
+C:\Users\ATE\source\repos\Q-FTPBREAKER\Q-FTPBREAKER\obj\Debug\Q-FTPBREAKER.exe
+C:\Users\ATE\source\repos\Q-FTPBREAKER\Q-FTPBREAKER\obj\Debug\Q-FTPBREAKER.pdb
